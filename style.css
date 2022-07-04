@@ -65,6 +65,11 @@ h2 {
     height: 70px;
   }
 
+    .clock .text {
+    letter-spacing: 0;
+  }
+
+  
   .clock #ampm {
     width: 40px;
   }
